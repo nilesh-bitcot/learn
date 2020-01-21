@@ -1,3 +1,4 @@
+<?php
 function Get_total_number_of_days($gyear, $gmonth, $gday){
   $months = $gmonth;  
   $years= $gyear;                                      
